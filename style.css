@@ -13,7 +13,7 @@ body {
 .header img {
   width: 100%;
 }
-.header .more_inf {
+.header .header-link {
   font-family: fantasy, cursive;
 }
 
@@ -33,7 +33,7 @@ body {
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.add-task-wrapper {
   display: flex;
 }
 ul {
