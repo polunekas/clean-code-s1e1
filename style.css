@@ -142,11 +142,11 @@ li input[type=text] {
   display: none;
 }
 
-li.editMode input[type=text] {
+li.edit-mode input[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-li.editMode label {
+li.edit-mode label {
   display: none;
 }
